@@ -1,0 +1,16 @@
+.\output\key.o: ..\bsp\key.c
+.\output\key.o: ..\bsp\key.h
+.\output\key.o: ..\stm32\stm32f10x.h
+.\output\key.o: ..\cmsis\core_cm3.h
+.\output\key.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\key.o: ..\stm32\system_stm32f10x.h
+.\output\key.o: ..\stm32\stm32f10x_conf.h
+.\output\key.o: ..\libraries\inc\stm32f10x_adc.h
+.\output\key.o: ..\stm32\stm32f10x.h
+.\output\key.o: ..\libraries\inc\stm32f10x_dma.h
+.\output\key.o: ..\libraries\inc\stm32f10x_gpio.h
+.\output\key.o: ..\libraries\inc\stm32f10x_rcc.h
+.\output\key.o: ..\libraries\inc\stm32f10x_tim.h
+.\output\key.o: ..\libraries\inc\stm32f10x_usart.h
+.\output\key.o: ..\libraries\inc\misc.h
+.\output\key.o: ..\bsp\gpio.h

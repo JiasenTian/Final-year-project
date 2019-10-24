@@ -1,0 +1,341 @@
+Dependencies for Project 'template', Target 'template': (DO NOT MODIFY !)
+F (..\user\main.c)(0x5AC5E663)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (..\bsp\pwm.h)(0x5A8F4543)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+I (..\bsp\usart.h)(0x5A6CF3EE)
+I (..\bsp\key.h)(0x5983D282)
+I (..\bsp\gpio.h)(0x5A8F4891)
+I (..\bsp\delay.h)(0x5A7DDB48)
+I (..\bsp\dma.h)(0x5A6F7C21)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+I (..\bsp\armcontrol.h)(0x5A6CF21C)
+F (..\cmsis\startup_stm32f10x_md.s)(0x5A79EA92)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include--list .\list\startup_stm32f10x_md.lst --xref -o .\output\startup_stm32f10x_md.o --depend .\output\startup_stm32f10x_md.d)
+F (..\stm32\stm32f10x_it.c)(0x5A8C444A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\stm32f10x_it.o --omf_browse .\output\stm32f10x_it.crf --depend .\output\stm32f10x_it.d)
+I (..\stm32\stm32f10x_it.h)(0x5A88A4B2)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+I (..\bsp\usart.h)(0x5A6CF3EE)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\stm32\system_stm32f10x.c)(0x4D784AC0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\system_stm32f10x.o --omf_browse .\output\system_stm32f10x.crf --depend .\output\system_stm32f10x.d)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\stm32\stm32f10x_conf.h)(0x5A7DD072)()
+F (..\stm32\stm32f10x.h)(0x5977EB49)()
+F (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)()
+F (..\libraries\src\stm32f10x_dma.c)(0x4D7849C4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\stm32f10x_dma.o --omf_browse .\output\stm32f10x_dma.crf --depend .\output\stm32f10x_dma.d)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\libraries\src\stm32f10x_rcc.c)(0x4D7849C4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\stm32f10x_rcc.o --omf_browse .\output\stm32f10x_rcc.crf --depend .\output\stm32f10x_rcc.d)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\libraries\src\stm32f10x_gpio.c)(0x4D79FCD6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\stm32f10x_gpio.o --omf_browse .\output\stm32f10x_gpio.crf --depend .\output\stm32f10x_gpio.d)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\libraries\src\stm32f10x_adc.c)(0x4D7849C4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\stm32f10x_adc.o --omf_browse .\output\stm32f10x_adc.crf --depend .\output\stm32f10x_adc.d)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\libraries\src\stm32f10x_usart.c)(0x4D7849C4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\stm32f10x_usart.o --omf_browse .\output\stm32f10x_usart.crf --depend .\output\stm32f10x_usart.d)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\libraries\src\misc.c)(0x4D7849C4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\misc.o --omf_browse .\output\misc.crf --depend .\output\misc.d)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+F (..\libraries\inc\misc.h)(0x4D7849C4)()
+F (..\libraries\src\stm32f10x_tim.c)(0x597804E0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\stm32f10x_tim.o --omf_browse .\output\stm32f10x_tim.crf --depend .\output\stm32f10x_tim.d)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)()
+F (..\bsp\delay.c)(0x5A85CB88)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\delay.o --omf_browse .\output\delay.crf --depend .\output\delay.d)
+I (..\bsp\delay.h)(0x5A7DDB48)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\bsp\gpio.c)(0x5A8F4880)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\gpio.o --omf_browse .\output\gpio.crf --depend .\output\gpio.d)
+I (..\bsp\gpio.h)(0x5A8F4891)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\bsp\key.c)(0x5983CFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\key.o --omf_browse .\output\key.crf --depend .\output\key.d)
+I (..\bsp\key.h)(0x5983D282)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+I (..\bsp\gpio.h)(0x5A8F4891)
+F (..\bsp\usart.c)(0x5A6F9824)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\usart.o --omf_browse .\output\usart.crf --depend .\output\usart.d)
+I (..\bsp\usart.h)(0x5A6CF3EE)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\bsp\pwm.c)(0x5A91EF25)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\pwm.o --omf_browse .\output\pwm.crf --depend .\output\pwm.d)
+I (..\bsp\pwm.h)(0x5A8F4543)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+F (..\bsp\delay.h)(0x5A7DDB48)()
+F (..\bsp\key.h)(0x5983D282)()
+F (..\bsp\pwm.h)(0x5A8F4543)()
+F (..\bsp\usart.h)(0x5A6CF3EE)()
+F (..\bsp\Windows.h)(0x4B2816E2)()
+F (..\bsp\gpio.h)(0x5A8F4891)()
+F (.\armcontrol.c)(0x5ACC96AB)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\armcontrol.o --omf_browse .\output\armcontrol.crf --depend .\output\armcontrol.d)
+I (armcontrol.h)(0x5AC4128D)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+I (..\bsp\pwm.h)(0x5A8F4543)
+I (..\bsp\delay.h)(0x5A7DDB48)
+I (..\bsp\gpio.h)(0x5A8F4891)
+F (.\armcontrol.h)(0x5AC4128D)()
+F (.\dma.c)(0x5A934E53)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\dma.o --omf_browse .\output\dma.crf --depend .\output\dma.d)
+I (dma.h)(0x5A7E1AD3)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+I (..\bsp\gpio.h)(0x5A8F4891)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (.\dma.h)(0x5A7E1AD3)()
+F (..\bsp\ucosii_task.c)(0x5A8C5D66)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\ucosii_task.o --omf_browse .\output\ucosii_task.crf --depend .\output\ucosii_task.d)
+I (..\bsp\ucosii_task.h)(0x5A8B4298)
+I (..\stm32\stm32f10x.h)(0x5977EB49)
+I (..\cmsis\core_cm3.h)(0x4D524968)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDE08E)
+I (..\stm32\system_stm32f10x.h)(0x4D784ABA)
+I (..\stm32\stm32f10x_conf.h)(0x5A7DD072)
+I (..\libraries\inc\stm32f10x_adc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_dma.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_gpio.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_rcc.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_tim.h)(0x4D7849C4)
+I (..\libraries\inc\stm32f10x_usart.h)(0x4D7849C4)
+I (..\libraries\inc\misc.h)(0x4D7849C4)
+I (..\bsp\gpio.h)(0x5A8F4891)
+I (..\bsp\delay.h)(0x5A7DDB48)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+I (..\bsp\dma.h)(0x5A6F7C21)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDE08E)
+F (..\bsp\ucosii_task.h)(0x5A8B4298)()
+F (.\temp.c)(0x5A8F46B9)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\temp.o --omf_browse .\output\temp.crf --depend .\output\temp.d)
+F (..\ucosii_core\os_core.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_core.o --omf_browse .\output\os_core.crf --depend .\output\os_core.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_flag.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_flag.o --omf_browse .\output\os_flag.crf --depend .\output\os_flag.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_mbox.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_mbox.o --omf_browse .\output\os_mbox.crf --depend .\output\os_mbox.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_mem.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_mem.o --omf_browse .\output\os_mem.crf --depend .\output\os_mem.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_mutex.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_mutex.o --omf_browse .\output\os_mutex.crf --depend .\output\os_mutex.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_q.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_q.o --omf_browse .\output\os_q.crf --depend .\output\os_q.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_sem.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_sem.o --omf_browse .\output\os_sem.crf --depend .\output\os_sem.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_task.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_task.o --omf_browse .\output\os_task.crf --depend .\output\os_task.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_time.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_time.o --omf_browse .\output\os_time.crf --depend .\output\os_time.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\os_tmr.c)(0x48637A4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_tmr.o --omf_browse .\output\os_tmr.crf --depend .\output\os_tmr.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_core\ucos_ii.h)(0x5A79F616)()
+F (..\ucosii_port\os_cpu.h)(0x5A79EB0E)()
+F (..\ucosii_port\os_cpu_a.asm)(0x5A79F59A)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include--list .\list\os_cpu_a.lst --xref -o .\output\os_cpu_a.o --depend .\output\os_cpu_a.d)
+F (..\ucosii_port\os_cpu_c.c)(0x5A79FCA7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_cpu_c.o --omf_browse .\output\os_cpu_c.crf --depend .\output\os_cpu_c.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_port\os_dbg.c)(0x5A79EED9)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\libraries\inc -I..\user -I..\stm32 -I..\cmsis -I..\bsp -I..\ucosii_config -I..\ucosii_core -I..\ucosii_port-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.2\Device\Include-DSTM32F10X_MD -o .\output\os_dbg.o --omf_browse .\output\os_dbg.crf --depend .\output\os_dbg.d)
+I (..\ucosii_core\ucos_ii.h)(0x5A79F616)
+I (..\ucosii_config\os_cfg.h)(0x5A79EF34)
+I (..\ucosii_port\os_cpu.h)(0x5A79EB0E)
+F (..\ucosii_config\os_cfg.h)(0x5A79EF34)()

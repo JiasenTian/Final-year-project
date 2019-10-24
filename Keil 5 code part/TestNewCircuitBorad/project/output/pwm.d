@@ -1,0 +1,15 @@
+.\output\pwm.o: ..\bsp\pwm.c
+.\output\pwm.o: ..\bsp\pwm.h
+.\output\pwm.o: ..\stm32\stm32f10x.h
+.\output\pwm.o: ..\cmsis\core_cm3.h
+.\output\pwm.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\pwm.o: ..\stm32\system_stm32f10x.h
+.\output\pwm.o: ..\stm32\stm32f10x_conf.h
+.\output\pwm.o: ..\libraries\inc\stm32f10x_adc.h
+.\output\pwm.o: ..\stm32\stm32f10x.h
+.\output\pwm.o: ..\libraries\inc\stm32f10x_dma.h
+.\output\pwm.o: ..\libraries\inc\stm32f10x_gpio.h
+.\output\pwm.o: ..\libraries\inc\stm32f10x_rcc.h
+.\output\pwm.o: ..\libraries\inc\stm32f10x_tim.h
+.\output\pwm.o: ..\libraries\inc\stm32f10x_usart.h
+.\output\pwm.o: ..\libraries\inc\misc.h

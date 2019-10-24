@@ -1,0 +1,15 @@
+.\output\delay.o: ..\bsp\delay.c
+.\output\delay.o: ..\bsp\delay.h
+.\output\delay.o: ..\stm32\stm32f10x.h
+.\output\delay.o: ..\cmsis\core_cm3.h
+.\output\delay.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\delay.o: ..\stm32\system_stm32f10x.h
+.\output\delay.o: ..\stm32\stm32f10x_conf.h
+.\output\delay.o: ..\libraries\inc\stm32f10x_adc.h
+.\output\delay.o: ..\stm32\stm32f10x.h
+.\output\delay.o: ..\libraries\inc\stm32f10x_dma.h
+.\output\delay.o: ..\libraries\inc\stm32f10x_gpio.h
+.\output\delay.o: ..\libraries\inc\stm32f10x_rcc.h
+.\output\delay.o: ..\libraries\inc\stm32f10x_tim.h
+.\output\delay.o: ..\libraries\inc\stm32f10x_usart.h
+.\output\delay.o: ..\libraries\inc\misc.h
