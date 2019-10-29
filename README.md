@@ -5,4 +5,4 @@ My project name is ‘Mechanical arm synchronization: An imitation of human arm 
 
 This project is still not finished. 
  
-Recently, I am studying machine learning which could improve the level of image processing. I also made some progress about the motion planning on my mechanical arm.(More details please find: ) 
+Recently, I am studying machine learning which could improve the quality of image processing. I also made some progress about the motion planning on my mechanical arm.(More details please find: https://github.com/JiasenTian/Mechanical-Arm-Motion-Planning) 
